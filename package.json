@@ -1,6 +1,6 @@
 {
-  "homepage": "https://walexmania.github.io/sidehustle-cv-app",
-  "name": "sidehustle-cv-app",
+  "homepage": "https://walexmania.github.io/cv-app",
+  "name": "cv-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
